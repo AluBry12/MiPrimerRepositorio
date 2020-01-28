@@ -1,4 +1,5 @@
 Olas ezte ez mi primera praktika uzando git
+Integrantes:
 BRYAN ALAVA
 EMILY ALVAREZ
 EILEEN VILLAMAR
